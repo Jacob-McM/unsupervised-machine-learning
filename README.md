@@ -6,7 +6,7 @@ In this repo you will find:
 
 |Notebook|Description|
 |--------|-----------|
-[Unsupervised Learning](unsupervised learning.ipynb)| This notebook contains the scikit-learn modeling and methods used to create clusters out of myopia patient data, and the thoughts/analysis on the results of those methods.|
+|[Unsupervised Learning](unsupervised%20learning.ipynb)| This notebook contains the scikit-learn modeling and methods used to create clusters out of myopia patient data, and the thoughts/analysis on the results of those methods.|
 
 |Data|Description|
 |----|-----------|
